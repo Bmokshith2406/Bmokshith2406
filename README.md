@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m Mokshith Balidi (@Bmokshith2406)!
 
-- 👀 I’m keenly interested in delving into the realms of Data Structures, Operating Systems, and the ongoing market trends, analyzing their intricacies and potential.
+- 👀 I’m keenly interested in delving into the realms of Data Structures, Operating Systems,Web-Development using MERN Stack, Django, Flask and Conventional Ways and the ongoing market trends, analyzing their intricacies and potential.
 
 - 🌱 Currently, I'm immersing myself in the world of Information Technology as a student at CBIT College, honing my skills and knowledge.
 
