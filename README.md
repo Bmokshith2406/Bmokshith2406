@@ -1,19 +1,46 @@
-- 👋 Hey there, I’m Mokshith Balidi (@Bmokshith2406)!
+# 👋 Hey there, I'm Mokshith Balidi!
 
-- 👀 I’m keenly interested in delving into the realms of Data Structures, Operating Systems,Web-Development using MERN Stack, Django, Flask and Conventional Ways and the ongoing market trends, analyzing their intricacies and potential.
+**AI Engineer | Full Stack Developer | Agentic AI Enthusiast**
 
-- 🌱 Currently, I'm immersing myself in the world of Information Technology as a student at CBIT College, honing my skills and knowledge.
+I'm a software engineer passionate about building intelligent systems, scalable applications, and AI-powered solutions that turn complex ideas into reality.
 
-- 💞️ I’m eager to collaborate on projects centered around Full Stack Development, especially within the dynamic MERN and Flask culture.
+### 🚀 About Me
 
-- 📫 Feel free to reach out to me via email at mokshithbalidi@gmail.com.
+- 🤖 Working on **Agentic AI, AI Agents, and Multi-Agent Architectures** at Lyzr AI.
+- 🧠 Exploring **LLMs, RAG, AI Automation, and Agent Orchestration** to build intelligent, production-ready systems.
+- 💻 Building full-stack applications using **Python, FastAPI, React.js, Next.js, TypeScript, and Node.js**.
+- 🏗️ Interested in **System Design, Microservices, Distributed Systems, Vector Databases, and Cloud Infrastructure**.
+- 🔬 Passionate about transforming innovative ideas into practical products through engineering, experimentation, and automation.
+- 🌱 Constantly learning, building, and exploring the evolving world of AI and software engineering.
 
-- Excitingly, I also hold the position of CEO and Founder at Codes & Bytes, where we're dedicated to crafting innovative solutions at the intersection of technology and creativity.
+### 🛠️ Tech Stack
 
-- For more about Codes & Bytes, check out our official link: Codes & Bytes Official Website.
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
 
-- Looking forward to connecting and exploring possibilities together!
-<!---
-Bmokshith2406/Bmokshith2406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI & LLMs:** Agentic AI, LLMs, RAG, Embeddings, LangChain, LangGraph, Multi-Agent Systems
+
+**Backend:** FastAPI, Flask, Node.js, REST APIs, Microservices
+
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+
+**Databases:** MongoDB, PostgreSQL, Redis, Vector Databases
+
+**Cloud & DevOps:** Docker, GCP, AWS, CI/CD, Git, GitHub
+
+### 💡 What I'm Interested In
+
+- Building autonomous AI agents and intelligent workflows.
+- Designing scalable, reliable, and production-ready systems.
+- Developing AI-powered developer tools and enterprise automation platforms.
+- Exploring the intersection of AI, software engineering, and entrepreneurship.
+- Collaborating with people who love building ambitious things.
+
+### 🤝 Let's Connect
+
+- 📧 **Email:** mokshithbalidi@gmail.com
+- 💻 **GitHub:** [@Bmokshith2406](https://github.com/Bmokshith2406)
+
+---
+
+*"Possibilities to Reality — one intelligent system at a time."*
+
